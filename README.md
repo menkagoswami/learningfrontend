@@ -1,3 +1,3 @@
 # learningfrontend
 
-Journey of comitting code while learning HTML, CSS, JavaScript and React :-) .
+Coding the journey of learning HTML, CSS, JavaScript and React :-) .
